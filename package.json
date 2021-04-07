@@ -1,0 +1,19 @@
+{
+  "name": "n-times-test",
+  "version": "1.0.0",
+  "description": "Sample project to demonstrate different ways run the same test N times",
+  "scripts": {
+    "test": "cypress run",
+    "cy:open": "cypress open"
+  },
+  "keywords": [
+    "Cypress.io",
+    "e2e testing",
+    "Lodash"
+  ],
+  "author": "Walmyr Filho <wlsf82@gmail.com> (https://walmyr.dev)",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^7.0.0"
+  }
+}
